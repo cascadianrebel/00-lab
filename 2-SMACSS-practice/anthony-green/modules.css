@@ -1,0 +1,40 @@
+
+.print, .date {
+  color: #a9a8a5;
+  font-family: 'Abel', sans-serif;
+  font-size: .8em;
+  text-transform: uppercase;
+}
+
+.print {
+  text-decoration: none;
+}
+
+.recipe {
+  letter-spacing: .1em;
+  font-family: 'Patrick Hand', cursive;
+  color: #666a42;
+  background-image: url("img/list-bg.png");
+}
+
+.recipe li {
+  font-size: 1.3em;
+}
+
+aside h3 {
+  font-size: 1.6em;
+  color: #555;
+}
+
+
+aside button {
+  font-family: 'Abel', sans-serif;
+  text-transform: uppercase;
+  background: #b8705a;
+  color: #fff;
+  font-size: 1.2em;
+}
+
+section hr {
+  border-bottom: 1px solid #eee;
+}
